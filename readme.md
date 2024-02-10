@@ -1,4 +1,5 @@
-# Next.js App Router Playground -- file based navigation
+# Next.js App Router Playground -- file-based navigation
+## made this to experiment with nextJs
 
 Next.js recently introduced the App Router with support for:
 
